@@ -3,4 +3,4 @@
 Third project for Udacity's Deep Learning Nanodegree.
 
 Task:
--Generate your own Seinfeld TV scripts using RNNs.
+- Generate your own Seinfeld TV scripts using RNNs.
